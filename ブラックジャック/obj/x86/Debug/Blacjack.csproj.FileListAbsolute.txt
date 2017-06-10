@@ -1,0 +1,6 @@
+/Users/user/Projects/ブラックジャック/ブラックジャック/bin/Debug/ブラックジャック.exe
+/Users/user/Projects/ブラックジャック/ブラックジャック/bin/Debug/ブラックジャック.pdb
+/Users/user/Projects/ブラックジャック/ブラックジャック/obj/x86/Debug/Blacjack.csprojResolveAssemblyReference.cache
+/Users/user/Projects/ブラックジャック/ブラックジャック/obj/x86/Debug/Blacjack.csproj.CoreCompileInputs.cache
+/Users/user/Projects/ブラックジャック/ブラックジャック/obj/x86/Debug/ブラックジャック.exe
+/Users/user/Projects/ブラックジャック/ブラックジャック/obj/x86/Debug/ブラックジャック.pdb
